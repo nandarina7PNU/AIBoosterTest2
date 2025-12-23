@@ -1,3 +1,6 @@
 hi blueapple test 2
 어 그래 만나서 반갑다잉
 그래그래
+네 질문
+pull request에서 수정된 dev를 원격저장소에 있는 dev
+dev에서 master로 넣겠다.
